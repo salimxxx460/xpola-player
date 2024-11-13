@@ -5,3 +5,118 @@ https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
 https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d359c98f262f00070c364e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a836d7ad-5d71-4fc0-ad59-2017a44eddb6
+#NAME Stream Egypte (EG)
+#SERVICE 1:64:3b7:0:0:0:0:0:0:0:
+#DESCRIPTION ++hoofdzenders++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.197.91.168%3a7002/play/a0et:Egyptian TV
+#DESCRIPTION Egyptian TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.131%3a8000/play/a02i:ERTU 1 Al Masryia
+#DESCRIPTION ERTU 1 Al Masryia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//myteve.online%3a8080/Abraham/6b3ca724a0/11282:ERTU 2 Al Thanya
+#DESCRIPTION ERTU 2 Al Thanya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.131%3a8000/play/a02c:ERTU 3 Al Kahera
+#DESCRIPTION ERTU 3 Al Kahera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.131%3a8000/play/a02d:ERTU 4 Al Kanal
+#DESCRIPTION ERTU 4 Al Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.131%3a8000/play/a02e:ERTU 5 Al Askandria
+#DESCRIPTION ERTU 5 Al Askandria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.131%3a8000/play/a02f:ERTU 6 Al Delta
+#DESCRIPTION ERTU 6 Al Delta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.131%3a8000/play/a02g:ERTU 7 Al Saeed Masr
+#DESCRIPTION ERTU 7 Al Saeed Masr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.131%3a8000/play/a02h:ERTU 8 Tebe
+#DESCRIPTION ERTU 8 Tebe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.131%3a8000/play/a044:Al Qanat 9 TV
+#DESCRIPTION Al Qanat 9 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a06g:Rotana Cinema Egypt
+#DESCRIPTION Rotana Cinema Egypt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a06i:Rotana Classic
+#DESCRIPTION Rotana Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a06o:Rotana Clip
+#DESCRIPTION Rotana Clip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.54.220.67%3a34780/play/a06h:Rotana Comedy
+#DESCRIPTION Rotana Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.185%3a8000/play/a0b8:Rotana Drama
+#DESCRIPTION Rotana Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.185%3a8000/play/a0b7:Rotana Khalijeah
+#DESCRIPTION Rotana Khalijeah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.185%3a8000/play/a0b9:Rotana Music
+#DESCRIPTION Rotana Music
+#SERVICE 1:64:3b8:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media4.smc-host.com%3a1935/aghapy.tv/aghapy.smil/playlist.m3u8:Aghapy TV
+#DESCRIPTION Aghapy TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63b03f7689049.streamlock.net%3a1935/live/7/playlist.m3u8:Al Ahly TV
+#DESCRIPTION Al Ahly TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.131%3a8000/play/a01k:Al Fady TV
+#DESCRIPTION Al Fady TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp%3alivestream_all/playlist.m3u8:Al Hayat TV
+#DESCRIPTION Al Hayat TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.islamexplained.com%3a1935/live/_definst_mp4%3aahme.stream_360p/playlist.m3u8:Al Hayat (#)
+#DESCRIPTION Al Hayat (#)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.smc-host.com%3a1935/alhorreya.tv/alhorreya.smil/playlist.m3u8:Al Horreya
+#DESCRIPTION Al Horreya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8:Al Qahera News
+#DESCRIPTION Al Qahera News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8:Al Qamar
+#DESCRIPTION Al Qamar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.185%3a8000/play/a0b3:Al Rahma
+#DESCRIPTION Al Rahma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.197.91.168%3a7002/play/a0ey:AlHadath Alyoum
+#DESCRIPTION AlHadath Alyoum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.atvsat.com/atvsatlive/smil%3aatvsatlive.smil/playlist.m3u8:ATV SAT
+#DESCRIPTION ATV SAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8:CTV
+#DESCRIPTION CTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.185%3a8000/play/a0a7:El Mashadra
+#DESCRIPTION El Mashadra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//9090video.mobtada.com/hls/stream.m3u8:El Radio 9090 FM
+#DESCRIPTION El Radio 9090 FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8:Elsharq TV
+#DESCRIPTION Elsharq TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ythls.armelin.one/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8:Extra News
+#DESCRIPTION Extra News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ffs3.gulfsat.com/hbc/index.m3u8:HBC
+#DESCRIPTION HBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.bestream.io%3a19360/elfaro1/elfaro1.m3u8:Huda TV
+#DESCRIPTION Huda TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a8308add0b31.streamlock.net/koogi.tv/koogi.smil/chunklist_w1374136989_b896000_slar_t64SEQ=.m3u8:Koogi TV
+#DESCRIPTION Koogi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.197.91.168%3a7002/play/a0g4:Madrastna 1
+#DESCRIPTION Madrastna 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.131%3a8000/play/a096:Madrastna 2
+#DESCRIPTION Madrastna 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8:MBC Masr 1
+#DESCRIPTION MBC Masr 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8:MBC Masr 2
+#DESCRIPTION MBC Masr 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/mekameleen/smil%3amekameleentv.smil/playlist.m3u8:Mekameleen TV
+#DESCRIPTION Mekameleen TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.58.202.131%3a8000/play/a01o:Misr Al Balad
+#DESCRIPTION Misr Al Balad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.197.91.168%3a7002/play/a0ee:Misr Quran Kareem
+#DESCRIPTION Misr Quran Kareem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nogoumtv.nrpstream.com/hls/stream.m3u8:Nogoum FM TV
+#DESCRIPTION Nogoum FM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.197.91.168%3a7002/play/a0ed:On Drama
+#DESCRIPTION On Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.197.91.168%3a7002/play/a0eb:On E
+#DESCRIPTION On E
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.197.91.168%3a7002/play/a0e9:OnTime Sports
+#DESCRIPTION OnTime Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.197.91.168%3a7002/play/a0e7:OnTime Sports 2
+#DESCRIPTION OnTime Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8:Panorama FM
+#DESCRIPTION Panorama FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.197.91.168%3a7002/play/a0f0:Sada Elbalad
+#DESCRIPTION Sada Elbalad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.197.91.168%3a7002/play/a0f1:Sada Elbalad 2
+#DESCRIPTION Sada Elbalad 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//154.197.91.168%3a7002/play/a0ez:Sada Elbalad 3
+#DESCRIPTION Sada Elbalad 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8:Sat 7 Arabic
+#DESCRIPTION Sat 7 Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8:Sat 7 Kids
+#DESCRIPTION Sat 7 Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n101.stream.tactivemedia.com/watantv/live/playlist.m3u8:Watan TV
+#DESCRIPTION Watan TV
