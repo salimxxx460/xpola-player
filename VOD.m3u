@@ -1,4 +1,6 @@
 #EXTINF:-1 group-title="Vod" tvg-logo="https://musicart.xboxlive.com/7/8d6c3c00-0000-0000-0000-000000000002/504/image.jpg", Resident-Evil-Chapitre-Final
 #EXTVLCOPT:http-player-type=m3u
 https://cineshow.xyz/movies/Resident-Evil-Chapitre-Final.mp4
-
+#EXTINF:-1 tvg-logo="https://fr.web.img5.acsta.net/img/8b/3b/8b3b6371a88786a39562d87473a5f563.jpg", The-Monkey
+#EXTVLCOPT:http-player-type=m3u
+https://cineshow.xyz/movies/.mp4
