@@ -1,4 +1,6 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSudstvOXJnTH7geuLGwWMIxoVGSArV2rmMDw&usqp=CAU", SYFY
 #EXTVLCOPT:http-player-type=m3u
 https://zetload.fremtv.lol/auth/91.m3u8
-
+#EXTINF:-1 tvg-logo="https://fs59.bigwarp.io/v/02/00253/9o75l1p6r3g7_x/x.mp4?t=Y4Q_mR3EhYNDv9Z7BbO3-H_0EJR1mkQ2zWuyzUGHnfw&s=1743815674&e=43200&f=1270295&sp=1000&i=0.0", Simo
+#EXTVLCOPT:http-player-type=m3u
+https://fs59.bigwarp.io/v/02/00253/9o75l1p6r3g7_x/x.mp4?t=Y4Q_mR3EhYNDv9Z7BbO3-H_0EJR1mkQ2zWuyzUGHnfw&s=1743815674&e=43200&f=1270295&sp=1000&i=0.0
